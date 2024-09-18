@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "BBTMartiresFree";
+  src: url("./assets/fonts/BBTMartiresFree-ExtraBold.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Rochester";
+  src: url("./assets/fonts/Rochester-Regular.ttf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
