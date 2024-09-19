@@ -27,7 +27,7 @@ const Hero = () => {
       <div>
         <h1
           style={{ animationDuration: "2s" }}
-          className="font-rochester text-5xl lg:text-9xl text-center animate__animated animate__fadeInRight"
+          className="font-rochester text-5xl lg:text-9xl text-center lg:animate__animated animate__fadeInRight"
         >
           "Celebrating Filipino flavors, one recipe at a time!"
         </h1>
@@ -38,7 +38,7 @@ const Hero = () => {
           ></img>
         </div>
         <div className="mt-12 flex items-center justify-center">
-          <button className="bg-orange-700 px-6 py-2 rounded-full hover:bg-orange-500 duration-200 text-white lg:text-5xl lg:px-10 lg:py-4">
+          <button className="bg-orange-700 px-6 py-2 rounded-full hover:bg-orange-500 duration-200 text-white lg:text-2xl lg:px-12 lg:py-8">
             See All Recipes
           </button>
         </div>

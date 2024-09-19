@@ -57,7 +57,7 @@ const Nav = () => {
         </a>
       </div>
 
-      <ul className="hidden lg:flex items-center justify-center gap-4 text-xl">
+      <ul className="hidden lg:flex items-center justify-center gap-4 text-xl font-martires">
         <li>Home</li>
         <li>About</li>
         <li>Contact</li>
