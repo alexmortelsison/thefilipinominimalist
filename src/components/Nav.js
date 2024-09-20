@@ -86,8 +86,6 @@ const Nav = () => {
               <a>Contact</a>
             </ul>
           </div>
-
-         
         </div>
       )}
     </div>

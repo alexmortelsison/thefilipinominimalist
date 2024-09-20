@@ -1,14 +1,17 @@
-import "./index.css";
-import "./fonts.css";
+// App.js
+import React from "react";
 import Nav from "./components/Nav";
 import Hero from "./components/Hero";
+import Recipes from "./components/Recipes";
+import "./fonts.css";
 
 function App() {
   return (
-    <div>
+    <>
       <Nav></Nav>
       <Hero></Hero>
-    </div>
+      <Recipes></Recipes>
+    </>
   );
 }
 
